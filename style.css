@@ -1,3 +1,17 @@
 body {
+  background-color: lightblue;
+}
 
+h4{
+  color: navy; 
+  font-size: 50px; 
+  font-variant: small-caps; 
+  text-decoration-line: overline underline;
+  text-decoration-color: navy; 
+  letter-spacing: 5px; 
+}
+
+img{
+  width: 30%; 
+  border-radius: 10px; 
 }
